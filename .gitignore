@@ -1,0 +1,3 @@
+# .gitignore
+/iot-server/.env
+/iot-server/node_modules
